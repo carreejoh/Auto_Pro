@@ -19,7 +19,7 @@ const Header: React.FC = () => {
     <header className="w-full fixed top-0 z-50 bg-[#272627] shadow-sm border-b-[2px] border-primary">
       <div className="h-24 flex items-center justify-between px-4 sm:px-6 md:px-8 lg:px-24 xl:px-28 2xl:px-48">
         <Link to="/" className="">
-          <img className="" alt="logo" src={clientConfig.logo}/>
+          <img className="h-38" alt="logo" src={clientConfig.logo}/>
         </Link>
         {/* Desktop nav */}
         <nav className="hidden md:flex space-x-4">

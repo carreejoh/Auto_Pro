@@ -3,30 +3,30 @@
 export const clientConfig = {
 
   // General
-  name: "AMR Auto Repair",
+  name: "Auto Pro",
   colors: {
-    logoColor: "#FDC700",
+    logoColor: "#FEDA00",
   },
 
   // Header
-  logo: "/AMRLogo.png",
+  logo: "/logo.png",
 
   // Home
-  heroImg: "/AMR_Auto.png",
-  heroText: "Action Mobile Auto Repair",
+  heroImg: "/streetView.png",
+  heroText: "Auto Pro Repair Shop",
   heroSubText: "Honest, skilled mechanics serving Salt Lake City and beyond. We keep you running smoothly.",
   
   // Services
 
   // Contact
-  phone: "(801) 555-1234",
-  phoneLink: "8015551234",
-  email: "AMR_Auto@gmail.com",
+  phone: "(801) 262-9952",
+  phoneLink: "8012629952",
+  email: "Auto_Pro_SLC@gmail.com",
   location: {
-    address: "1145 Richards St,",
-    addressSecondary: "Salt Lake City, UT 84101",
-    googleMapEmbedLink: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d755.7052202371249!2d-111.89263766984047!3d40.74396671929422!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8752f53ab3a61df5%3A0x16439d32409dd44b!2sAction%20Mobile%20Repair!5e0!3m2!1sen!2sus!4v1748289559907!5m2!1sen!2sus",
-    googleMapLink: "https://www.google.com/maps?q=Action+Mobile+Repair&ll=40.7439845,-111.892386",
-    appleMapLink: "https://maps.apple.com/?q=Action+Mobile+Repair&ll=40.7439845,-111.892386"
+    address: "903 E 3900 S,",
+    addressSecondary: "Holladay, UT 84124",
+    googleMapEmbedLink: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13981.98684883021!2d-111.86946026969494!3d40.685421084515376!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87528a710d9cfb67%3A0x94b3f420bbaeb52e!2sAuto%20Pro!5e0!3m2!1sen!2sus!4v1749171796887!5m2!1sen!2sus",
+    googleMapLink: "https://www.google.com/maps/place/Auto+Pro/@40.6873599,-111.8652474,19.54z/data=!4m6!3m5!1s0x87528a710d9cfb67:0x94b3f420bbaeb52e!8m2!3d40.6873614!4d-111.8650849!16s%2Fg%2F1w_vnrl9?entry=ttu&g_ep=EgoyMDI1MDYwMy4wIKXMDSoASAFQAw%3D%3D",
+    appleMapLink: "https://maps.apple.com/place?coordinate=40.6873614%2C-111.8650849&name=Auto%20Pro"
   },
 };
